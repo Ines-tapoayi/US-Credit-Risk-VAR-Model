@@ -1,6 +1,4 @@
 # US-credit-risk-var-model
-# Monetary Policy and Credit Risk – VAR/SVAR Analysis
-
 ## Overview
 This project analyzes how US monetary policy affects bank credit and credit risk between 2000 and 2019.
 
